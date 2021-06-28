@@ -1,2 +1,2 @@
 # Motor
-![Motor](https://menucha-de.github.io/Motor/)
+[Motor](https://menucha-de.github.io/Motor/)
